@@ -1,0 +1,19 @@
+{
+  "name": "hexlet",
+  "version": "1.0.0",
+  "description": "тестовые задания с курса 'JS: Настройка окружения'\r Мой первый проект на Хекслете",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gremmes/hexlet-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gremmes/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/gremmes/hexlet-js#readme"
+}
