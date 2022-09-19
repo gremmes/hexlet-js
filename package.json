@@ -1,8 +1,9 @@
 {
   "name": "hexlet",
   "version": "1.0.0",
+  "type": "module",
   "description": "тестовые задания с курса 'JS: Настройка окружения'\r Мой первый проект на Хекслете",
-  "main": "hello.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
